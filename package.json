@@ -36,7 +36,6 @@
     "eslint-config-prettier": "^4.2.0"
   },
   "prettier": {
-    "trailingComma": "es5",
     "semi": false,
     "singleQuote": true,
     "tabWidth": 2
