@@ -1,5 +1,5 @@
 import React from 'react'
-import Sanitize from './components/Reset/Sanitize'
+import Sanitize from './styles/components/Sanitize'
 
 const App = () => {
   return (
