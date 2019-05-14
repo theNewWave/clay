@@ -37,10 +37,5 @@
   "devDependencies": {
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.2.0"
-  },
-  "prettier": {
-    "semi": false,
-    "singleQuote": true,
-    "tabWidth": 2
   }
 }
