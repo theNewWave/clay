@@ -5,9 +5,12 @@
   "author": "theNewWave",
   "private": true,
   "dependencies": {
+    "jest-styled-components": "^6.3.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
+    "react-test-renderer": "^16.8.6",
+    "react-testing-library": "^7.0.0",
     "styled-components": "^4.2.0"
   },
   "scripts": {
