@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 
 export const Row = styled.div`
-  width: 100%;
-  display: flex;
+  margin-left: ${props => (props.gutter ? `-${props.gutter}px` : '-15px')};
+  margin-right: ${props => (props.gutter ? `-${props.gutter}px` : '-15px')};
+  font-size: 0;
 `
